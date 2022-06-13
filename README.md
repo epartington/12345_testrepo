@@ -1,12 +1,3 @@
 # 12345_testrepo
 
-## this is another comment
-20220609 - comment
-
-hello hello hello
-
-abc123 yeah you kno w me
-
-test 12345
-
-can we upload this comment
+## 20220613 - uploading this comment from gh-desktop to 12345_testrepo/
