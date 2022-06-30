@@ -2,5 +2,3 @@
 
 > this is a comment pushed from gh-desktop  
 > git commit message
-
-> testing http/2 ???
