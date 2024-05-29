@@ -1,5 +1,5 @@
 # 12345_testrepo
 > git cli pushed
-> intellij pushed
-> intellij - does this push
+> intellij - pushed
+> intellij - why does eclipse not push
 
