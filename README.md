@@ -6,5 +6,5 @@
 > 
 > intellij - why does eclipse not push
 > 
-> intellij testing sanctioned repo1
+> intellij testing sanctioned repo2
 
