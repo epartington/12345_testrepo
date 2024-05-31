@@ -12,4 +12,4 @@
 
 >  github desktop - testing commit
 
-> intelliJ updates with appid3
+> intelliJ updates with appid4
