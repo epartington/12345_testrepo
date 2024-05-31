@@ -9,6 +9,7 @@
 > intellij testing sanctioned repo4
 
 <<<<<<< Upstream, based on origin/main
+<<<<<<< Upstream, based on origin/main
 > vscode - testing commit
 
 >  github desktop - testing commit
@@ -17,3 +18,6 @@
 =======
 > eclipse - push with jgit
 >>>>>>> bfadf37 commits eclipse
+=======
+> eclipse - push with jgit2
+>>>>>>> 03cbee5 commits eclipse
