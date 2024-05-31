@@ -11,3 +11,5 @@
 > vscode - testing commit
 
 >  github desktop - testing commit
+
+> intelliJ updates with appid
