@@ -7,4 +7,7 @@
 > intellij - why does eclipse not push
 > 
 > intellij testing sanctioned repo4
-> ghdesktop - testing commit
+
+> vscode - testing commit
+
+>  github desktop - testing commit
