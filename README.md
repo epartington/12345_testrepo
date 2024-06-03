@@ -8,4 +8,4 @@
 
 > intellij - with appid8
 
-> eclipse - with appid2 - packetbroker
+> eclipse - with appid2 - packetbroker2
