@@ -9,3 +9,5 @@
 > intellij - with appid8
 
 > eclipse - with appid2 - packetbroker2
+
+> intellij - with appid - packetbroker 
