@@ -15,3 +15,5 @@
 > ghdesktop - with appid - packetbroker2
 
 > eclipse - with appid
+> 
+>  intellij - with app-id
