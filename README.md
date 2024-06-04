@@ -12,4 +12,4 @@
 
 > intellij - with appid - packetbroker 
 
-> ghdesktop - with appid - packetbroker
+> ghdesktop - with appid - packetbroker2
