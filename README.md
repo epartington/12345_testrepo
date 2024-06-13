@@ -16,7 +16,7 @@
 
 > eclipse - with appid
 
->  intellij - with app-id
+> intellij - with app-id
 
 > eclipse - with app-id3 http2
  
