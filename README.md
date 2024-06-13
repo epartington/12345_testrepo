@@ -23,3 +23,5 @@
 >  intellij - with appid http2
 
 > ghdesktop-newappid2
+> 
+>  intellij newappid1
