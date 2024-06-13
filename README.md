@@ -20,8 +20,8 @@
 
 > eclipse - with app-id3 http2
  
->  intellij - with appid http2
+> intellij - with appid http2
 
 > ghdesktop-newappid2
-> 
->  intellij newappid1
+
+> intellij newappid1
