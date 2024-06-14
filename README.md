@@ -22,6 +22,8 @@
  
 > intellij - with appid http2
 
+> eclipse - with app-id3 http3
+
 > ghdesktop-newappid2
 
 > intellij newappid1
