@@ -26,4 +26,4 @@
 
 > ghdesktop-newappid2
 
-> intellij newappid1
+> intellij newappid3
