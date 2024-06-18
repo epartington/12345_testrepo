@@ -2,4 +2,4 @@
 
 > eclipse 4
 
-> ghdesktop 1
+> ghdesktop 2
