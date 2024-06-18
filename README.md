@@ -1,5 +1,5 @@
 # 12345_testrepo
 
-> eclipse 7
+> eclipse 8
 
 > ghdesktop 3
