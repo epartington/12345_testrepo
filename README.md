@@ -1,6 +1,6 @@
 # 12345_testrepo
 
-> eclipse 11
+> eclipse 18
 
 > ghdesktop 6
 
