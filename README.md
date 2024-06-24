@@ -1,6 +1,6 @@
 # 12345_testrepo
 
-> eclipse 25
+> eclipse 26
 
 > ghdesktop 7
 
