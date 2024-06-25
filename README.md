@@ -2,6 +2,6 @@
 
 > eclipse 26
 
-> ghdesktop 7
+> ghdesktop 8
 
 > vscode 1
